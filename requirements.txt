@@ -1,0 +1,4 @@
+dnslib==0.9.22
+dnspython==2.2.1
+pythonping==1.1.3
+PyYAML==6.0
